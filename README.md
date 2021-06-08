@@ -1,1 +1,1 @@
-# Mechanical-Engineering-Sci-computing-HW-1
+# Scientific-Computing-1
